@@ -1,4 +1,4 @@
-# Anifah-Ayoade-Kosoko
+
 - 👋 Hi, I'm Anifah Ayoade-Kosoko
 - 🎓 MSc Data Science graduate, University of Wolverhampton
 - 👀 I'm interested in data exploration and analysis, machine learning and AI
